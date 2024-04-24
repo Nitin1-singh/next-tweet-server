@@ -2,6 +2,8 @@
 
 backend of next-tweet. Next tweet is an clone of twitter/x
 
+![diagram-export-23-4-2024-8_41_49-am](https://github.com/Nitin1-singh/next-tweet-web/assets/148739561/0e4f3a6e-bfb6-4319-b66f-060e6055e51a)
+
 ## Technology used
 - Typescript
 - node js
